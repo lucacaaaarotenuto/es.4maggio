@@ -1,0 +1,1 @@
+get-childitem C:\Users\luca.carotenuto\Desktop\*at.* | out printer
